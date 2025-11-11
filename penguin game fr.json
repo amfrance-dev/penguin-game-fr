@@ -168,6 +168,1178 @@
         "preloadAsSound": true,
         "preloadInCache": false,
         "userAdded": false
+      },
+      {
+        "file": "assets/Penguin_Belly Sliding_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Penguin_Belly Sliding_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Character/Penguin/9e3ac7aaa529a89858f249a8935e65a450bf59e15e1b681b5b93369846519e51_Penguin_Belly Sliding_1.png",
+          "name": "Penguin_Belly Sliding_1.png"
+        }
+      },
+      {
+        "file": "assets/Penguin_Belly Sliding_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Penguin_Belly Sliding_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Character/Penguin/3befcf169009403c15c4ab3786c42fbf518b8dc53575de5f1b6f70403f68a1d0_Penguin_Belly Sliding_2.png",
+          "name": "Penguin_Belly Sliding_2.png"
+        }
+      },
+      {
+        "file": "assets/Penguin_Belly Sliding_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Penguin_Belly Sliding_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Character/Penguin/8bd2f298c46152e550c38ddb4f904bf05acaeb8c9bdfbb36fcb78ab105baee54_Penguin_Belly Sliding_3.png",
+          "name": "Penguin_Belly Sliding_3.png"
+        }
+      },
+      {
+        "file": "assets/Penguin_Blink.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Penguin_Blink.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Character/Penguin/21b9a4d62bc350bc43320187628405d47e5d03765a90c781c067f91ac9fed664_Penguin_Blink.png",
+          "name": "Penguin_Blink.png"
+        }
+      },
+      {
+        "file": "assets/Penguin_Ducking.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Penguin_Ducking.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Character/Penguin/a20ac463489578379ca968be7eaf680ead0e03372698b9817d4947b973477a50_Penguin_Ducking.png",
+          "name": "Penguin_Ducking.png"
+        }
+      },
+      {
+        "file": "assets/Penguin_Falling.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Penguin_Falling.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Character/Penguin/381e0938e8c5d3b1014c60cb7181aec3cc88030fbbbf1e7e01bc0fa9bb4ef4ef_Penguin_Falling.png",
+          "name": "Penguin_Falling.png"
+        }
+      },
+      {
+        "file": "assets/Penguin_Hurt.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Penguin_Hurt.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Character/Penguin/f7a9e5ae72356cbff8899a1bb63fdc1de5ce2a57cea796d89151e1020b7d7af1_Penguin_Hurt.png",
+          "name": "Penguin_Hurt.png"
+        }
+      },
+      {
+        "file": "assets/Penguin_Idle_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Penguin_Idle_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Character/Penguin/53250f0308844c899e49f5c73f8e4591003b47cfc76938f1b9c2f7eee4983355_Penguin_Idle_1.png",
+          "name": "Penguin_Idle_1.png"
+        }
+      },
+      {
+        "file": "assets/Penguin_Idle_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Penguin_Idle_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Character/Penguin/115a018b51dc97213938aa13f36ae27fb23a287c41416c3c8c8ba5a520054bec_Penguin_Idle_2.png",
+          "name": "Penguin_Idle_2.png"
+        }
+      },
+      {
+        "file": "assets/Penguin_Idle_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Penguin_Idle_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Character/Penguin/be4020d3cc9d950dbf03fe0a29b45f0daff864aba81a6349f40af9f441cc2695_Penguin_Idle_3.png",
+          "name": "Penguin_Idle_3.png"
+        }
+      },
+      {
+        "file": "assets/Penguin_Idle_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Penguin_Idle_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Character/Penguin/13c8138a39ca74a53ffb02f7e2fa756434250779c6a9bb6304c4f864da438d87_Penguin_Idle_4.png",
+          "name": "Penguin_Idle_4.png"
+        }
+      },
+      {
+        "file": "assets/Penguin_Idle_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Penguin_Idle_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Character/Penguin/1c25d16d16cf2a10388e10847015012188c3cf5e1775d22768a90554376ccacf_Penguin_Idle_5.png",
+          "name": "Penguin_Idle_5.png"
+        }
+      },
+      {
+        "file": "assets/Penguin_Jump.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Penguin_Jump.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Character/Penguin/3a4c7fdf002a36c4970c5f692ca9d0beadec5d802a8bcb901503e5f72c29b05d_Penguin_Jump.png",
+          "name": "Penguin_Jump.png"
+        }
+      },
+      {
+        "file": "assets/Penguin_Looking Off.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Penguin_Looking Off.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Character/Penguin/45483e7a9b49f07a397fb6fb3f46a339d986fef3afaaab93aa012af73eb6cc86_Penguin_Looking Off.png",
+          "name": "Penguin_Looking Off.png"
+        }
+      },
+      {
+        "file": "assets/Penguin_Looking Up_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Penguin_Looking Up_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Character/Penguin/cad7313e7b0b6eabf73ac72260d04f25a8b111cef9677957c41378992aaf1ebc_Penguin_Looking Up_1.png",
+          "name": "Penguin_Looking Up_1.png"
+        }
+      },
+      {
+        "file": "assets/Penguin_Looking Up_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Penguin_Looking Up_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Character/Penguin/434a4af09070244f0a2e0a42eb61a1b8353e82b98cb8af72f3cb065a44957284_Penguin_Looking Up_2.png",
+          "name": "Penguin_Looking Up_2.png"
+        }
+      },
+      {
+        "file": "assets/Penguin_Lying On Ground.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Penguin_Lying On Ground.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Character/Penguin/20af5095c463619e956b87b96637fd91a8372cf85c94fc8804ffb4be9b4de3e4_Penguin_Lying On Ground.png",
+          "name": "Penguin_Lying On Ground.png"
+        }
+      },
+      {
+        "file": "assets/Penguin_Sitting_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Penguin_Sitting_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Character/Penguin/93c07040c58f2323e4d1871a38871628872d2ad0ae56e650abda33405c10e5de_Penguin_Sitting_1.png",
+          "name": "Penguin_Sitting_1.png"
+        }
+      },
+      {
+        "file": "assets/Penguin_Sitting_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Penguin_Sitting_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Character/Penguin/d670836b6188bb0dc7e712f6896febbd320d3019eb3d11cf73a468256f873872_Penguin_Sitting_2.png",
+          "name": "Penguin_Sitting_2.png"
+        }
+      },
+      {
+        "file": "assets/Penguin_Standing.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Penguin_Standing.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Character/Penguin/c264aae643fd0b0272ccddcfa72bcc4c1d59165d284f10b3d1ef9165704dec0f_Penguin_Standing.png",
+          "name": "Penguin_Standing.png"
+        }
+      },
+      {
+        "file": "assets/Penguin_Surprised.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Penguin_Surprised.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Character/Penguin/2636a977b0fd244bcc93f1d12d761f920cc7d81d8f18421314bb3a3118698eee_Penguin_Surprised.png",
+          "name": "Penguin_Surprised.png"
+        }
+      },
+      {
+        "file": "assets/Penguin_Swimming_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Penguin_Swimming_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Character/Penguin/78b00be7eda115888a496c68e9671598ac408d994e992bf744e58504983fe7ae_Penguin_Swimming_1.png",
+          "name": "Penguin_Swimming_1.png"
+        }
+      },
+      {
+        "file": "assets/Penguin_Swimming_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Penguin_Swimming_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Character/Penguin/772983168887d23724f69969a01e38dd95d319ed9ded94c30068bd81f1805389_Penguin_Swimming_2.png",
+          "name": "Penguin_Swimming_2.png"
+        }
+      },
+      {
+        "file": "assets/Penguin_Swimming_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Penguin_Swimming_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Character/Penguin/02b8246a03034e07103ef4ee166036c59170e6d7710c5921994a8e48225de4fb_Penguin_Swimming_3.png",
+          "name": "Penguin_Swimming_3.png"
+        }
+      },
+      {
+        "file": "assets/Penguin_Swimming_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Penguin_Swimming_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Character/Penguin/a68f8304e71e066843926f96f2bb1296b0d7541bec6399fb50f73d82862a9bc9_Penguin_Swimming_4.png",
+          "name": "Penguin_Swimming_4.png"
+        }
+      },
+      {
+        "file": "assets/Penguin_Victory Dance_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Penguin_Victory Dance_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Character/Penguin/53250f0308844c899e49f5c73f8e4591003b47cfc76938f1b9c2f7eee4983355_Penguin_Victory Dance_1.png",
+          "name": "Penguin_Victory Dance_1.png"
+        }
+      },
+      {
+        "file": "assets/Penguin_Victory Dance_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Penguin_Victory Dance_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Character/Penguin/14dd875b6d37c5b3cd09c7f6eaa7fc68bef7ef815d5b9d228f152e51f8369586_Penguin_Victory Dance_2.png",
+          "name": "Penguin_Victory Dance_2.png"
+        }
+      },
+      {
+        "file": "assets/Penguin_Victory Dance_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Penguin_Victory Dance_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Character/Penguin/7d77e7a419d2e2c4d3f36eed630b90fa7d1869ccc7e8ea5ce8ce805687a98952_Penguin_Victory Dance_3.png",
+          "name": "Penguin_Victory Dance_3.png"
+        }
+      },
+      {
+        "file": "assets/Penguin_Victory Dance_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Penguin_Victory Dance_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Character/Penguin/14dd875b6d37c5b3cd09c7f6eaa7fc68bef7ef815d5b9d228f152e51f8369586_Penguin_Victory Dance_4.png",
+          "name": "Penguin_Victory Dance_4.png"
+        }
+      },
+      {
+        "file": "assets/Penguin_Victory Dance_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Penguin_Victory Dance_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Character/Penguin/f65918ff75fe249ce4ace0529ea256df6e821235a1e85bf638b5ccdb1369a7b3_Penguin_Victory Dance_5.png",
+          "name": "Penguin_Victory Dance_5.png"
+        }
+      },
+      {
+        "file": "assets/Penguin_Waddling_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Penguin_Waddling_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Character/Penguin/2c968147db1c3d79e0a21ebb94df53cb88ee0bdaf1c2600d485ed16b7ec33b08_Penguin_Waddling_1.png",
+          "name": "Penguin_Waddling_1.png"
+        }
+      },
+      {
+        "file": "assets/Penguin_Waddling_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Penguin_Waddling_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Character/Penguin/f595e6e22399bbb84033e34539af57e1f0347c72a0ea0f09cc0fe6faed99399a_Penguin_Waddling_2.png",
+          "name": "Penguin_Waddling_2.png"
+        }
+      },
+      {
+        "file": "assets/Penguin_Waddling_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Penguin_Waddling_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Character/Penguin/94dd611186297f706abb8c0203a13f83f804501db50fa74bfd11cbcab0a4d9fc_Penguin_Waddling_3.png",
+          "name": "Penguin_Waddling_3.png"
+        }
+      },
+      {
+        "file": "assets/Penguin_Waddling_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Penguin_Waddling_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Character/Penguin/a52222edbfef42ddc9414f217d492c4e99a4af8fd1aa2c5296cf298f29d462cd_Penguin_Waddling_4.png",
+          "name": "Penguin_Waddling_4.png"
+        }
+      },
+      {
+        "file": "assets/Penguin_Waddling_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Penguin_Waddling_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Character/Penguin/4046d3068cbb73563cef1188d21513c2e11b0220983766650377918a427dd771_Penguin_Waddling_5.png",
+          "name": "Penguin_Waddling_5.png"
+        }
+      },
+      {
+        "file": "assets/Penguin_Waddling_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Penguin_Waddling_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Character/Penguin/2427d46b7d9d8eb7c59428c8074c2d2bfc0fa667787642ac54c6680a01b8020c_Penguin_Waddling_6.png",
+          "name": "Penguin_Waddling_6.png"
+        }
+      },
+      {
+        "file": "assets/Rock 6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Rock 6.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Rock/62efe465b19fe0ec6badf83bee30c364e124d1eeb23069fd89c62f6715377713_Rock 6.png",
+          "name": "Rock 6.png"
+        }
+      },
+      {
+        "file": "assets/Rock 4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Rock 4.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Rock/7bf8fc163ada5efb219b700594488e453d4dc5edcb173d3a3f065d291fdaa97e_Rock 4.png",
+          "name": "Rock 4.png"
+        }
+      },
+      {
+        "file": "assets/Rock 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Rock 1.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Rock/b314745b840a5c2a61fd9e5ad6140ab1fa693772b897a83ad91b460b828cb0c4_Rock 1.png",
+          "name": "Rock 1.png"
+        }
+      },
+      {
+        "file": "assets/Rock 5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Rock 5.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Rock/714407c40e93b4715ece938c815cfdbc3c0b552f3c06d3b6d1d83c9824103549_Rock 5.png",
+          "name": "Rock 5.png"
+        }
+      },
+      {
+        "file": "assets/Rock 3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Rock 3.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Rock/a99ca2cdbce83720ee93308d158a61a5fbffafd444622176a4c489652f786ed7_Rock 3.png",
+          "name": "Rock 3.png"
+        }
+      },
+      {
+        "file": "assets/Rock 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Rock 2.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Rock/f669c1d0385fc56b0caef880baf631950e04b4df63f1ce2cddf8b42629dd9f8c_Rock 2.png",
+          "name": "Rock 2.png"
+        }
+      },
+      {
+        "file": "assets/Rock with grass 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Rock with grass 2.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Rock/6e343a5721109a7667d3ec0a01c07264628b32321770c07c95b0ab418802ad0a_Rock with grass 2.png",
+          "name": "Rock with grass 2.png"
+        }
+      },
+      {
+        "file": "assets/Rock with grass.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Rock with grass.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Rock/eb1e9a3eb6c111ea246f87b7a0797a83fb952a454bc0ed4391725a70eb8ea0ac_Rock with grass.png",
+          "name": "Rock with grass.png"
+        }
+      },
+      {
+        "file": "assets/Big green tree 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big green tree 1.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/2a16eb5140a567ee799947fa245017dc815f94bf9420f99b614faee126d84273_Big green tree 1.png",
+          "name": "Big green tree 1.png"
+        }
+      },
+      {
+        "file": "assets/Big green tree 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big green tree 2.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/90395967d81f88d4022dfe8c3181669c6e43f1773addcbd2ef34195108f5663d_Big green tree 2.png",
+          "name": "Big green tree 2.png"
+        }
+      },
+      {
+        "file": "assets/Rock with grass 3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Rock with grass 3.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Rock/df6ac48df453390312580b655c1ed70c5f331ebc7dfb5b29e41f33f3eb92f0f0_Rock with grass 3.png",
+          "name": "Rock with grass 3.png"
+        }
+      },
+      {
+        "file": "assets/Big green tree 3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big green tree 3.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/523f5371bd78329633f73d0120dea2155a55d0bd40a73d0bba96cf8b47ee2c5a_Big green tree 3.png",
+          "name": "Big green tree 3.png"
+        }
+      },
+      {
+        "file": "assets/Big green tree 4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big green tree 4.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/f5f48441be0d16934fd43f760dc64a61dadde9ee9b4705de7876b76a39d6cd1f_Big green tree 4.png",
+          "name": "Big green tree 4.png"
+        }
+      },
+      {
+        "file": "assets/Big green tree 6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big green tree 6.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/9d2b4a5bcdf7456dfedc6f9c0eb50d053b2fae309993bda259274fb6a3bac21a_Big green tree 6.png",
+          "name": "Big green tree 6.png"
+        }
+      },
+      {
+        "file": "assets/Big green tree 7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big green tree 7.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/6ec6bd54d25bc7f7ef7e4082456787fff43fe76eb15a9fed655c07296aad40a4_Big green tree 7.png",
+          "name": "Big green tree 7.png"
+        }
+      },
+      {
+        "file": "assets/Big green tree 5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big green tree 5.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/6389525b557f178f96f14136c47b478361cf396d55a69a0cde804b3002f68736_Big green tree 5.png",
+          "name": "Big green tree 5.png"
+        }
+      },
+      {
+        "file": "assets/Big green tree 8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big green tree 8.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/02238342977533f5a953a394acff481080c8845b6a4422a0a6fc2b9818c52d62_Big green tree 8.png",
+          "name": "Big green tree 8.png"
+        }
+      },
+      {
+        "file": "assets/Big orange tree 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big orange tree 1.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/998ffeed576d8f06c739d1ecaa9f30c6313723f9391ba54a7bf107f2024d7b60_Big orange tree 1.png",
+          "name": "Big orange tree 1.png"
+        }
+      },
+      {
+        "file": "assets/Big orange tree 5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big orange tree 5.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/ad0aca131d7741230db2c3692fe508bf315ee5c4297ff1c8bcdee104705b7144_Big orange tree 5.png",
+          "name": "Big orange tree 5.png"
+        }
+      },
+      {
+        "file": "assets/Big orange tree 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big orange tree 2.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/425409478466927c74143af9c1b8bedad0abcfd3fa5edecefb042fa58ed4083a_Big orange tree 2.png",
+          "name": "Big orange tree 2.png"
+        }
+      },
+      {
+        "file": "assets/Big orange tree 6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big orange tree 6.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/688a54cfcf6c0fb969017f81b7c00c1546c530f41085729195d367a5e420bf3f_Big orange tree 6.png",
+          "name": "Big orange tree 6.png"
+        }
+      },
+      {
+        "file": "assets/Big orange tree 4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big orange tree 4.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/8eb60e32f8c2affb8d20bebf5d54db486dcae87ef17d214fcfb05a41499fbee2_Big orange tree 4.png",
+          "name": "Big orange tree 4.png"
+        }
+      },
+      {
+        "file": "assets/Big tree with snow 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big tree with snow 1.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/3f7e8516260685c5596cd597e5eb7f0e6a9e02830e86c86f218250cb4bb67dab_Big tree with snow 1.png",
+          "name": "Big tree with snow 1.png"
+        }
+      },
+      {
+        "file": "assets/Big orange tree 3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big orange tree 3.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/07c87a022cbb95fa522f5dccd24cc926e64156d06542b4ae2616405e73344db7_Big orange tree 3.png",
+          "name": "Big orange tree 3.png"
+        }
+      },
+      {
+        "file": "assets/Big tree with snow 3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big tree with snow 3.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/6a3b5cbb0adfa32ae5ebfbc6db9a0e2e97f559bb30f92379a8e42eaff952bddf_Big tree with snow 3.png",
+          "name": "Big tree with snow 3.png"
+        }
+      },
+      {
+        "file": "assets/Blue flower.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blue flower.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/7b77c8a350999469ddf39a84d6abdde284dce704e159b5635982ac6f6c552195_Blue flower.png",
+          "name": "Blue flower.png"
+        }
+      },
+      {
+        "file": "assets/Big tree with snow 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big tree with snow 2.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/cb3fe1c0cef189a2e826b8a2849597e41c78292d9dc374af04b981ae4972e0bf_Big tree with snow 2.png",
+          "name": "Big tree with snow 2.png"
+        }
+      },
+      {
+        "file": "assets/Blue small plant.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blue small plant.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/99ad1c67325716985f41aab4976ed44f12eb8a9b06fe85f304164c88df7b10c0_Blue small plant.png",
+          "name": "Blue small plant.png"
+        }
+      },
+      {
+        "file": "assets/Green bush 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Green bush 1.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/42f4a550a0579a4250eff104d8d29f9f6d85dd73a45c2e5a31b01f283516d45a_Green bush 1.png",
+          "name": "Green bush 1.png"
+        }
+      },
+      {
+        "file": "assets/Green bush 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Green bush 2.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/f2e369071ea1a4aba9ec5ae16b3d74f66ef836c500329fd0109bb49ba6df3ffc_Green bush 2.png",
+          "name": "Green bush 2.png"
+        }
+      },
+      {
+        "file": "assets/Green bush 3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Green bush 3.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/683475754a64caa9967c7efefd956f654f817472e0a6a5fb59ed30e7e0638d42_Green bush 3.png",
+          "name": "Green bush 3.png"
+        }
+      },
+      {
+        "file": "assets/Green bush 4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Green bush 4.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/dc7d8afad5425d878c0c8f0451f8a1a0f3f51086f7ad7135ff046ac7295176c6_Green bush 4.png",
+          "name": "Green bush 4.png"
+        }
+      },
+      {
+        "file": "assets/Green tree leaves 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Green tree leaves 1.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/11164015cbb588c1ad02b1ef425636d009ff3d07e307fd24c1d3ffb5da967c3a_Green tree leaves 1.png",
+          "name": "Green tree leaves 1.png"
+        }
+      },
+      {
+        "file": "assets/Green tree leaves 3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Green tree leaves 3.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/2b344377e58bfe741095d082453eb4f08639674275ebbde8df093303ebf6e1c5_Green tree leaves 3.png",
+          "name": "Green tree leaves 3.png"
+        }
+      },
+      {
+        "file": "assets/Green tree leaves 6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Green tree leaves 6.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/25a27410c78da6d60543859861591fafbdb4d40c24121713950081c76048f80e_Green tree leaves 6.png",
+          "name": "Green tree leaves 6.png"
+        }
+      },
+      {
+        "file": "assets/Green tree leaves 4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Green tree leaves 4.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/c61620f63570c6be3697a058adc144f15de4fb9170022915a45cd78f3d5e87ad_Green tree leaves 4.png",
+          "name": "Green tree leaves 4.png"
+        }
+      },
+      {
+        "file": "assets/Green tree leaves 7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Green tree leaves 7.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/7acb61ab5b644c2b73b24bb46dbeb8045e962590444a0584c4ca9d4c164f1638_Green tree leaves 7.png",
+          "name": "Green tree leaves 7.png"
+        }
+      },
+      {
+        "file": "assets/Green tree leaves 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Green tree leaves 2.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/87b33288a17f509a2618a710bbf4197750e93179b69e3db34b188a18667ad2be_Green tree leaves 2.png",
+          "name": "Green tree leaves 2.png"
+        }
+      },
+      {
+        "file": "assets/Green tree leaves 5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Green tree leaves 5.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/baa000173898983c15c381adfbb3109538970afe240760770e9e172a0d0ae934_Green tree leaves 5.png",
+          "name": "Green tree leaves 5.png"
+        }
+      },
+      {
+        "file": "assets/Orange tree leaves 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Orange tree leaves 1.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/7eb361daffd9faf05a3758f73d07e3ebb853cdabe393b2e30174b4da5a453674_Orange tree leaves 1.png",
+          "name": "Orange tree leaves 1.png"
+        }
+      },
+      {
+        "file": "assets/Orange tree leaves 3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Orange tree leaves 3.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/f28315dfce90edbf9abc268f129b5e2e659dee9b9b086395eb7f508865531f82_Orange tree leaves 3.png",
+          "name": "Orange tree leaves 3.png"
+        }
+      },
+      {
+        "file": "assets/Orange tree leaves 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Orange tree leaves 2.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/9e7de8e7892e01fc65ac8397002e996fd0374d7575d1570578896b4871223490_Orange tree leaves 2.png",
+          "name": "Orange tree leaves 2.png"
+        }
+      },
+      {
+        "file": "assets/Orange tree leaves 4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Orange tree leaves 4.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/42fc91baff77ce26e081fdd2c9d3d7f487b4f9c1f562ee0a0f2aa53c1c436510_Orange tree leaves 4.png",
+          "name": "Orange tree leaves 4.png"
+        }
+      },
+      {
+        "file": "assets/Purple small plant.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Purple small plant.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/478f652dba77ba458373df31ce2c677db304d1a4833819df476ba15a01e48e3a_Purple small plant.png",
+          "name": "Purple small plant.png"
+        }
+      },
+      {
+        "file": "assets/Orange tree leaves 5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Orange tree leaves 5.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/6b529da3939dd6e832717f812b6695867471ccc20a72137c9ca1014d4ca6f126_Orange tree leaves 5.png",
+          "name": "Orange tree leaves 5.png"
+        }
+      },
+      {
+        "file": "assets/Orange tree leaves 6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Orange tree leaves 6.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/9c4cf6d84d5eb4b744e0cf686868201e655e51539fa7360e232ed7d6456e157e_Orange tree leaves 6.png",
+          "name": "Orange tree leaves 6.png"
+        }
+      },
+      {
+        "file": "assets/Red flower.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Red flower.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/47b0fca3b60eb8ab6e0c583ef1905e2ff441150562b47284db38be61d3ec73a4_Red flower.png",
+          "name": "Red flower.png"
+        }
+      },
+      {
+        "file": "assets/Small plant 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Small plant 1.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/45e1fa6abc6f7e3da2c38f0130960d4b12e60e8840cb5c5dbfe973f9172ca8bc_Small plant 1.png",
+          "name": "Small plant 1.png"
+        }
+      },
+      {
+        "file": "assets/Small grass.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Small grass.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/1347af7aee35484ecee5ecf61587f5157b511b9224e1a6bcad45eab58442e26a_Small grass.png",
+          "name": "Small grass.png"
+        }
+      },
+      {
+        "file": "assets/Small plant 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Small plant 2.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/93076389aa26c1cb226895e4b5cdf6f9b7c0c701133e610fba408c5b563096cc_Small plant 2.png",
+          "name": "Small plant 2.png"
+        }
+      },
+      {
+        "file": "assets/Tiny grass.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tiny grass.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/1e714815624e850e127dd4d2dbf5a272042fa1efd9926a31618e8a3a96405121_Tiny grass.png",
+          "name": "Tiny grass.png"
+        }
+      },
+      {
+        "file": "assets/Trunk 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Trunk 1.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/159b51227e8aa6d37f3a01b5e5d00c6c020a20a4b78f1b84f0a0df88d6e4a35d_Trunk 1.png",
+          "name": "Trunk 1.png"
+        }
+      },
+      {
+        "file": "assets/Trunk 3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Trunk 3.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/6b4b52c818835d310e85ac1eb852f77484f3a9dc152fc50184a21e56ea8a7ae4_Trunk 3.png",
+          "name": "Trunk 3.png"
+        }
+      },
+      {
+        "file": "assets/Trunk 4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Trunk 4.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/05f875c07814de89a0493334403e71c215271d48310dfde3efeb4e3d3a5f5b9a_Trunk 4.png",
+          "name": "Trunk 4.png"
+        }
+      },
+      {
+        "file": "assets/Trunk 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Trunk 2.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/6d9bc31a95fa9c0f6ceea454eb44bd551eeea173a77209f0ba0922463b4e5371_Trunk 2.png",
+          "name": "Trunk 2.png"
+        }
+      },
+      {
+        "file": "assets/White tree 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "White tree 1.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/d55d8e7958c4a729a3773b4840f310684dae293849fad83847ff2a26f9fed82d_White tree 1.png",
+          "name": "White tree 1.png"
+        }
+      },
+      {
+        "file": "assets/White tree 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "White tree 2.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/fc4e19c3d677c2bc5cc2b9de8a79c0181bb292246aa84b20772f80fdba558eb3_White tree 2.png",
+          "name": "White tree 2.png"
+        }
+      },
+      {
+        "file": "assets/White trunk 3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "White trunk 3.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/d4a8e5e5a7b0791f767153372f0ba708a8408bb4b72dc1b5451f3aab982084c2_White trunk 3.png",
+          "name": "White trunk 3.png"
+        }
+      },
+      {
+        "file": "assets/White tree 3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "White tree 3.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/d74a997cdad55844a0fe6a81a5f1808386fa3d6e01bc242bdd0fd3daa1f02c1f_White tree 3.png",
+          "name": "White tree 3.png"
+        }
+      },
+      {
+        "file": "assets/White trunk 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "White trunk 2.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/e193f68c1b6858a4c695fa60377f4a2586c05ccc8e09d76945a5b9f2a41e4477_White trunk 2.png",
+          "name": "White trunk 2.png"
+        }
+      },
+      {
+        "file": "assets/Tilemap_terrain.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tilemap_terrain.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney New Platformer Pack 1.0/Tilemap/9b627f6dd19701b59e1ffc1310bce631b2c8b757264991288ffb1143f8e39a8d_Tilemap_terrain.png",
+          "name": "Tilemap_terrain.png"
+        }
+      },
+      {
+        "file": "snow block.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "snow block.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
