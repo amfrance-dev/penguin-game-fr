@@ -1340,6 +1340,62 @@
         "name": "snow block.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "background 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "background 1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "snow pile.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "snow pile.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "snow_pile-removebg-preview.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "snow_pile-removebg-preview.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "alpine-landscape-snow-rubble-01d-al1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "alpine-landscape-snow-rubble-01d-al1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "snow_wall_fr_fr-removebg-preview.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "snow_wall_fr_fr-removebg-preview.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "snow_wall_fr_fr-removebg-preview2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "snow_wall_fr_fr-removebg-preview2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "snow_wall_fr_fr-removebg-preview (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "snow_wall_fr_fr-removebg-preview (1).png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []

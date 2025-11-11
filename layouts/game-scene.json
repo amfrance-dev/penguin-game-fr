@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.6672773998330027,
+    "zoomFactor": 0.22336005893811756,
     "windowMask": false,
     "selectedLayer": ""
   },
@@ -96,22 +96,6 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "Background",
-      "name": "Tilemap_terrain",
-      "persistentUuid": "106c1d21-a700-44ee-b2b0-41eee169b62e",
-      "width": 0,
-      "x": 1519,
-      "y": 155,
-      "zOrder": 9,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
       "layer": "",
       "name": "Tilemap_terrain",
       "persistentUuid": "cb21fd8a-6e98-4321-afae-9f145d705b62",
@@ -126,6 +110,40 @@
           "value": "{\"tileWidth\":64,\"tileHeight\":64,\"dimX\":11,\"dimY\":19,\"layers\":[{\"id\":0,\"alpha\":1,\"tiles\":[[91,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[91,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[91,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[91,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[91,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[91,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[91,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[91,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[91,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[91,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[91,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[91,82,82,82,82,82,82,82,82,82,82],[91,91,91,91,91,91,91,91,91,91,91],[91,91,91,91,91,91,91,91,91,91,91],[91,91,91,91,91,91,91,91,91,91,91],[91,91,91,91,91,91,91,91,91,91,91],[91,91,91,91,91,91,91,91,91,91,91],[91,91,91,91,91,91,91,91,91,91,91],[91,91,91,91,91,91,91,91,91,91,91]]}]}"
         }
       ],
+      "initialVariables": []
+    },
+    {
+      "angle": 38,
+      "customSize": true,
+      "depth": 1,
+      "height": 131,
+      "keepRatio": true,
+      "layer": "",
+      "name": "NewTiledSprite",
+      "persistentUuid": "e1f1dd20-50c3-46cd-9441-3479876f694e",
+      "width": 1445,
+      "x": 377,
+      "y": 782,
+      "zOrder": 11,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 6247,
+      "keepRatio": true,
+      "layer": "",
+      "name": "snow_wall",
+      "persistentUuid": "f76a68d4-8ef1-4df0-b909-e42fba5cc25e",
+      "width": 3291,
+      "x": -2080,
+      "y": -3362,
+      "zOrder": 6,
+      "numberProperties": [],
+      "stringProperties": [],
       "initialVariables": []
     }
   ],
@@ -5553,6 +5571,222 @@
           "yGrabOffset": 0
         }
       ]
+    },
+    {
+      "assetStoreId": "",
+      "bottomMargin": 0,
+      "height": 32,
+      "leftMargin": 0,
+      "name": "NewPanelSprite",
+      "rightMargin": 0,
+      "texture": "background 1.png",
+      "tiled": false,
+      "topMargin": 0,
+      "type": "PanelSpriteObject::PanelSprite",
+      "width": 32,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "NewSprite",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": []
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "snow_wall",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "acceleration": 400,
+          "allowDiagonals": true,
+          "angleOffset": 0,
+          "angularMaxSpeed": 180,
+          "cellHeight": 20,
+          "cellWidth": 20,
+          "extraBorder": 0,
+          "gridOffsetX": 0,
+          "gridOffsetY": 0,
+          "maxSpeed": 200,
+          "name": "Pathfinding",
+          "rotateObject": true,
+          "smoothingMaxCellGap": 1,
+          "type": "PathfindingBehavior::PathfindingBehavior"
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "snow_wall_fr_fr-removebg-preview (1).png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 504.5,
+                        "y": 1015.5
+                      },
+                      {
+                        "x": 527,
+                        "y": 1037.5
+                      },
+                      {
+                        "x": 519,
+                        "y": 1080
+                      },
+                      {
+                        "x": 0,
+                        "y": 1080
+                      }
+                    ],
+                    [
+                      {
+                        "x": 422,
+                        "y": 916
+                      },
+                      {
+                        "x": 501,
+                        "y": 995
+                      },
+                      {
+                        "x": 503.5,
+                        "y": 1016
+                      },
+                      {
+                        "x": 0,
+                        "y": 1080
+                      }
+                    ],
+                    [
+                      {
+                        "x": 450.5,
+                        "y": 899.5
+                      },
+                      {
+                        "x": 486,
+                        "y": 935
+                      },
+                      {
+                        "x": 467,
+                        "y": 963.5
+                      },
+                      {
+                        "x": 381,
+                        "y": 888.5
+                      }
+                    ],
+                    [
+                      {
+                        "x": 398.5,
+                        "y": 774
+                      },
+                      {
+                        "x": 467,
+                        "y": 882.5
+                      },
+                      {
+                        "x": 458.5,
+                        "y": 905
+                      },
+                      {
+                        "x": 364,
+                        "y": 875
+                      }
+                    ],
+                    [
+                      {
+                        "x": 357,
+                        "y": 745
+                      },
+                      {
+                        "x": 400,
+                        "y": 774
+                      },
+                      {
+                        "x": 362.5,
+                        "y": 877
+                      },
+                      {
+                        "x": 0,
+                        "y": 1080
+                      }
+                    ],
+                    [
+                      {
+                        "x": 100,
+                        "y": 573.5
+                      },
+                      {
+                        "x": 98.5,
+                        "y": 81.5
+                      },
+                      {
+                        "x": 306,
+                        "y": 644.5
+                      },
+                      {
+                        "x": 203,
+                        "y": 629.5
+                      }
+                    ],
+                    [
+                      {
+                        "x": 245,
+                        "y": 669
+                      },
+                      {
+                        "x": 304.5,
+                        "y": 637.5
+                      },
+                      {
+                        "x": 356.5,
+                        "y": 665.5
+                      },
+                      {
+                        "x": 372,
+                        "y": 727.5
+                      },
+                      {
+                        "x": 357.5,
+                        "y": 746.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -5763,6 +5997,15 @@
       },
       {
         "objectName": "NewTiledSprite"
+      },
+      {
+        "objectName": "NewPanelSprite"
+      },
+      {
+        "objectName": "NewSprite"
+      },
+      {
+        "objectName": "snow_wall"
       }
     ]
   },
@@ -5780,6 +6023,60 @@
             "Penguin",
             "",
             "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "KeyFromTextPressed"
+          },
+          "parameters": [
+            "",
+            "\"Right\""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "MettreX"
+          },
+          "parameters": [
+            "snow_wall",
+            "+",
+            "3"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "snow_wall",
+            "Penguin",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Delete"
+          },
+          "parameters": [
+            "Penguin",
             ""
           ]
         }
@@ -5878,6 +6175,10 @@
     {
       "name": "Opacity",
       "type": "OpacityCapability::OpacityBehavior"
+    },
+    {
+      "name": "Pathfinding",
+      "type": "PathfindingBehavior::PathfindingBehavior"
     },
     {
       "name": "Platform",
