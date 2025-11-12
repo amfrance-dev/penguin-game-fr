@@ -1396,6 +1396,123 @@
         "name": "snow_wall_fr_fr-removebg-preview (1).png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "assets/White Background.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "White Background.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Score counters/8778e2bed0a56aaac3124fbd7ae8cfc6f413e2a77f2f62c887b5d07481f31833_White Background.png",
+          "name": "White Background.png"
+        }
+      },
+      {
+        "file": "assets/Star Gold.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Star Gold.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Score counters/dabcb55a15ef675dc4d7249e84fc15a5eae362e66b8d752f3982be15a36683a9_Star Gold.png",
+          "name": "Star Gold.png"
+        }
+      },
+      {
+        "file": "assets/JotiOne-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "JotiOne-Regular.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Score counters/a8c7c959ab7f3dbb0fcf98d5355fb8839186d33f3c9d7203ef20450fa5a72091_JotiOne-Regular.ttf",
+          "name": "JotiOne-Regular.ttf"
+        }
+      },
+      {
+        "file": "assets/Cooked Fish_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cooked Fish_No Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Food/7db6e6ba4477dbfcd415c07376a0a698e17bc9807084974b678cbf51414fcb27_Cooked Fish_No Shadow.png",
+          "name": "Cooked Fish_No Shadow.png"
+        }
+      },
+      {
+        "file": "assets/Cooked Fish_Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cooked Fish_Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Food/669b819b5e716bb3de5fd989e09547232a803116450e0528b0840ec0135d9ee8_Cooked Fish_Shadow.png",
+          "name": "Cooked Fish_Shadow.png"
+        }
+      },
+      {
+        "file": "assets/food eat.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "assets\\food eat.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/PickupCoin.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "assets\\PickupCoin.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Coins 8.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "c52f1dacc263a2a6dc94e712a2a148f909b73372fa8e0622cb237fdc6a72fd6c_Coins 8.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Arcade/Sound effects/Coins/c52f1dacc263a2a6dc94e712a2a148f909b73372fa8e0622cb237fdc6a72fd6c_Coins 8.aac",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "snowy background fr.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "snowy background fr.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "snowy background fr2.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "snowy background fr2.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "sky.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "sky.jpg",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -1425,6 +1542,10 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/eventsFunctionsExtensions/smoothcamera"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/scorecounter"
     }
   ],
   "externalLayouts": []
