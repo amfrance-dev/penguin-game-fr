@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.3010461197182569,
+    "zoomFactor": 0.16572117247527468,
     "windowMask": false,
     "selectedLayer": ""
   },
@@ -119,7 +119,7 @@
       "height": 145,
       "keepRatio": true,
       "layer": "",
-      "name": "NewTiledSprite",
+      "name": "Slope",
       "persistentUuid": "e1f1dd20-50c3-46cd-9441-3479876f694e",
       "width": 1595,
       "x": 350,
@@ -275,6 +275,57 @@
       "x": 4982,
       "y": -1284,
       "zOrder": 14,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 38,
+      "customSize": true,
+      "depth": 1,
+      "height": 145,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Slope",
+      "persistentUuid": "b7ee5c6b-2618-48ea-8dde-32e8dffaaafd",
+      "width": 1595,
+      "x": 1605,
+      "y": 1778,
+      "zOrder": 11,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 38,
+      "customSize": true,
+      "depth": 1,
+      "height": 145,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Slope",
+      "persistentUuid": "a5e26775-012d-4cc4-a9fa-108269299e9d",
+      "width": 1595,
+      "x": 2850,
+      "y": 2748,
+      "zOrder": 11,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 38,
+      "customSize": true,
+      "depth": 1,
+      "height": 145,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Slope",
+      "persistentUuid": "68f9f460-0b2c-4ce1-9622-35c014170bef",
+      "width": 1595,
+      "x": 4105,
+      "y": 3727,
+      "zOrder": 11,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -5689,7 +5740,7 @@
     {
       "assetStoreId": "",
       "height": 32,
-      "name": "NewTiledSprite",
+      "name": "Slope",
       "texture": "snow block.png",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 32,
@@ -6339,7 +6390,7 @@
         ]
       },
       {
-        "objectName": "NewTiledSprite"
+        "objectName": "Slope"
       },
       {
         "objectName": "NewPanelSprite"
@@ -6515,6 +6566,71 @@
           ]
         }
       ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "Penguin",
+            "Slope",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "SetAngle"
+          },
+          "parameters": [
+            "Penguin",
+            "=",
+            "38"
+          ]
+        },
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "Penguin",
+            "Animation",
+            "=",
+            "\"Belly Sliding\""
+          ]
+        },
+        {
+          "type": {
+            "value": "PlatformBehavior::MaxSpeed"
+          },
+          "parameters": [
+            "Penguin",
+            "PlatformerObject",
+            "+",
+            "3"
+          ]
+        },
+        {
+          "type": {
+            "value": "PlatformBehavior::SimulateRightKey"
+          },
+          "parameters": [
+            "Penguin",
+            "PlatformerObject"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": []
     }
   ],
   "layers": [
