@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.16572117247527468,
+    "zoomFactor": 0.1313882699636016,
     "windowMask": false,
     "selectedLayer": ""
   },
@@ -93,13 +93,14 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 2880,
       "keepRatio": true,
       "layer": "",
       "name": "Tilemap_terrain",
       "persistentUuid": "cb21fd8a-6e98-4321-afae-9f145d705b62",
-      "width": 0,
+      "width": 2556,
       "x": -842,
       "y": -383,
       "zOrder": 3,
@@ -122,8 +123,8 @@
       "name": "Slope",
       "persistentUuid": "e1f1dd20-50c3-46cd-9441-3479876f694e",
       "width": 1595,
-      "x": 350,
-      "y": 801,
+      "x": 356,
+      "y": 798,
       "zOrder": 11,
       "numberProperties": [],
       "stringProperties": [],
@@ -139,8 +140,8 @@
       "name": "snow_wall",
       "persistentUuid": "f76a68d4-8ef1-4df0-b909-e42fba5cc25e",
       "width": 3291,
-      "x": -4583,
-      "y": -3487,
+      "x": -1927,
+      "y": -3289,
       "zOrder": 15,
       "numberProperties": [],
       "stringProperties": [],
@@ -5748,9 +5749,9 @@
       "effects": [],
       "behaviors": [
         {
+          "canBeGrabbed": false,
           "name": "Platform",
           "type": "PlatformBehavior::PlatformBehavior",
-          "canBeGrabbed": true,
           "platformType": "NormalPlatform",
           "yGrabOffset": 0
         }
@@ -6626,11 +6627,6 @@
           ]
         }
       ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [],
-      "actions": []
     }
   ],
   "layers": [
