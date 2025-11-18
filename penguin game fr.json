@@ -1513,6 +1513,26 @@
         "name": "sky.jpg",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "assets/spritesheet-tiles-default.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "spritesheet-tiles-default.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney New Platformer Pack 1.0/Tilemap/16c6bb75a286c8dd9b224626c7493085ee2b25516f0ffcb078e5ae5b826c7e4d_spritesheet-tiles-default.png",
+          "name": "spritesheet-tiles-default.png"
+        }
+      },
+      {
+        "file": "assets/NewSprite2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite2",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
