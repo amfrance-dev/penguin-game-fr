@@ -20,7 +20,7 @@
     "snap": false,
     "zoomFactor": 0.18305734955560923,
     "windowMask": false,
-    "selectedLayer": ""
+    "selectedLayer": "slope collision"
   },
   "objectsGroups": [],
   "variables": [],
@@ -80,15 +80,20 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "Background",
+      "layer": "",
       "name": "base_tiles",
       "persistentUuid": "706da9ac-e8d5-4ba6-b526-e9121659f888",
       "width": 0,
-      "x": 1482,
-      "y": 322,
+      "x": 650,
+      "y": 194,
       "zOrder": 8,
       "numberProperties": [],
-      "stringProperties": [],
+      "stringProperties": [
+        {
+          "name": "tilemap",
+          "value": "{\"tileWidth\":64,\"tileHeight\":64,\"dimX\":1,\"dimY\":2,\"layers\":[{\"id\":0,\"alpha\":1,\"tiles\":[[91],[91]]}]}"
+        }
+      ],
       "initialVariables": []
     },
     {
@@ -124,8 +129,8 @@
       "name": "snow_wall",
       "persistentUuid": "f76a68d4-8ef1-4df0-b909-e42fba5cc25e",
       "width": 3291,
-      "x": -1912,
-      "y": -3273,
+      "x": -2156,
+      "y": -3155,
       "zOrder": 20,
       "numberProperties": [],
       "stringProperties": [],
@@ -610,11 +615,11 @@
       "effects": [],
       "behaviors": [
         {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior",
           "gravity": 500,
           "jumpSpeed": 600,
           "jumpSustainTime": 0.2,
-          "name": "PlatformerObject",
-          "type": "PlatformBehavior::PlatformerObjectBehavior",
           "acceleration": 1500,
           "canGoDownFromJumpthru": true,
           "canGrabPlatforms": false,
@@ -6843,6 +6848,16 @@
             "0",
             "100",
             ""
+          ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "Penguin",
+            "PlatformerObject",
+            "yes"
           ]
         }
       ]
