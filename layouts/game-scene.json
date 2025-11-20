@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.31119749424453735,
+    "zoomFactor": 0.31119749424453746,
     "windowMask": false,
     "selectedLayer": ""
   },
@@ -6665,6 +6665,17 @@
             "\"slope collision\"",
             ""
           ]
+        },
+        {
+          "type": {
+            "value": "PlatformBehavior::MaxSpeed"
+          },
+          "parameters": [
+            "Penguin",
+            "PlatformerObject",
+            "=",
+            "250"
+          ]
         }
       ]
     },
@@ -6889,6 +6900,17 @@
             "+",
             "6"
           ]
+        },
+        {
+          "type": {
+            "value": "PlatformBehavior::MaxSpeed"
+          },
+          "parameters": [
+            "Penguin",
+            "PlatformerObject",
+            "=",
+            "2000"
+          ]
         }
       ]
     },
@@ -6982,6 +7004,17 @@
             "PlatformerObject",
             "yes"
           ]
+        },
+        {
+          "type": {
+            "value": "PlatformBehavior::MaxSpeed"
+          },
+          "parameters": [
+            "Penguin",
+            "PlatformerObject",
+            "=",
+            "250"
+          ]
         }
       ]
     },
@@ -7008,6 +7041,16 @@
             "",
             "",
             ""
+          ]
+        },
+        {
+          "type": {
+            "inverted": true,
+            "value": "KeyFromTextPressed"
+          },
+          "parameters": [
+            "",
+            "\"Space\""
           ]
         }
       ],
@@ -7077,6 +7120,107 @@
           "parameters": [
             "Penguin",
             ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "PlatformBehavior::IsFalling"
+          },
+          "parameters": [
+            "Penguin",
+            "PlatformerObject"
+          ]
+        },
+        {
+          "type": {
+            "value": "KeyFromTextPressed"
+          },
+          "parameters": [
+            "",
+            "\"Space\""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "PlatformBehavior::MaxSpeed"
+          },
+          "parameters": [
+            "Penguin",
+            "PlatformerObject",
+            "=",
+            "450"
+          ]
+        },
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "Penguin",
+            "Animation",
+            "=",
+            "\"Belly Sliding\""
+          ]
+        }
+      ],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "\"Right\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetAngle"
+              },
+              "parameters": [
+                "Penguin",
+                "=",
+                "30"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetAngle"
+              },
+              "parameters": [
+                "Penguin",
+                "=",
+                "-30"
+              ]
+            }
           ]
         }
       ]
